@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Meet beautiful people Explore local places Re-imagine the social circle.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

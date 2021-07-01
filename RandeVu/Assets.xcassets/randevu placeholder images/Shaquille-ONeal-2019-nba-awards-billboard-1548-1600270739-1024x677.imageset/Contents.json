@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Shaquille-ONeal-2019-nba-awards-billboard-1548-1600270739-1024x677.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Shaquille-ONeal-2019-nba-awards-billboard-1548-1600270739-1024x677-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Shaquille-ONeal-2019-nba-awards-billboard-1548-1600270739-1024x677-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

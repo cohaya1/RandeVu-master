@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "By signing-up you agree to the Terms & Conditions and Privacy Policy of RandeVU..png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "By signing-up you agree to the Terms & Conditions and Privacy Policy of RandeVU.-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "By signing-up you agree to the Terms & Conditions and Privacy Policy of RandeVU.-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
