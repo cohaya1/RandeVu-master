@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "Vector-1.png",
+      "filename" : "Your password must be between 8 to 16 characters long, include a letter, a number, and a special character from the list. @ $ ! % _ # _ -.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Vector-2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Vector-3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
